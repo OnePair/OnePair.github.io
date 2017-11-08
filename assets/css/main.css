@@ -1,0 +1,94 @@
+.menu {
+    background-color: #161719;
+}
+
+.projects {
+    margin-top: 5%;
+    margin-left: 20%;
+    font-size: 1.5em;
+}
+
+.projects > h2 {
+    color: white;
+    font-family: Arial;
+    margin-bottom: 7%;
+}
+
+.projects > h4 {
+    color: white;
+    font-family: Courier New;
+    margin-bottom: 1%;
+}
+
+.projects > h5 {
+    color: white;
+    font-family: Courier New;
+    margin-top: 1%;
+}
+
+.projects > form {
+    float: left;
+    margin-right: 3%;
+}
+
+.projects > form > button {
+    background-color: #cbaa2c;
+    border: none;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10%;
+    padding-right: 10%;
+    text-align: center;
+    white-space: nowrap;
+    display: inline-block;
+    border-radius: 5px;
+    font-size: 0.7em;
+                                            
+}
+
+.top_logo {
+    height: 6%;
+    width: 15%;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+}
+
+
+.button {
+    background-color: #cbaa2c;
+    border: none;
+    color: white;
+    padding-top: 1%;
+    padding-bottom: 1.5%;
+    padding-left: 1%;
+    padding-right: 1.5%;
+    border-radius: 15px;
+    text-align: center;
+    display: inline-block;
+    font-size: 1.5em;
+}
+
+body {
+    margin: 0;
+    background-color: #3e434a;
+
+}
+
+a {
+    color: #cbaa2c;
+    font-family: "sans-serif";
+    font-weight: bold;
+    background-color: #black;
+    font-size: 1em;
+    float: right;
+    margin-top: 2.5%;
+    margin-right: 1%;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+    text-decoration: underline;
+}
